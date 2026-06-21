@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión en la oscuridad
+
+This log tracks the cryptographic history and versioning for the song **Pasión en la oscuridad** (pasion-en-la-oscuridad).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T04:18:34.225026 | `v1` | `ce3b9415b21c14c31536b485b18b92ebe3ec5802f8e29529d649bbd1cf591d41` | `aadefe44c84318b9c63a59d62be14908b234af516b5652b87110f1179a709075` | `2026-06-22_pasion-en-la-oscuridad-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

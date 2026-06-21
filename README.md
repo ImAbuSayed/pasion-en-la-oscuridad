@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-en-la-oscuridad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Pasión en la oscuridad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-la-oscuridad/) |
+| **Get License** | [Music Rights & Licensing for Pasión en la oscuridad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-la-oscuridad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ce3b9415b21c14c31536b485b18b92ebe3ec5802f8e29529d649bbd1cf591d41` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
