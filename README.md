@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-en-la-oscuridad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Pasión en la oscuridad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-la-oscuridad/) |
+| **Get License** | [License this song: Pasión en la oscuridad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-la-oscuridad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Dime si lo sientes cuando apagan la luz
-> Tu cuerpo llama fuerte, no hay nada que hablar
-> Bailamos en silencio, tú y yo sin temblar
-> Esta noche es nuestra, no la dejes escapar
+> Esta noche la luna es testigo de mi intención
+> Me acerco lento, baby, perdiendo la razón
+> You know I want it, bailando en la oscuridad
+> Tu cuerpo y el mío rompiendo la gravedad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
